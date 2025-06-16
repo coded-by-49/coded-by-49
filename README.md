@@ -17,14 +17,13 @@ I use DSA to :
 
 
 These are some of my current learnign projects i started a sometime a go
+## 🔗 My Projects
+
 | Project | Description | Link |
 |--------|-------------|------|
-| python begineer level projects right here : | https://github.com/coded-by-49/Python-Beginner-projects|
-
-| 🧠 DSA Journey | Structured solutions to DSA problems by topic, with explanations and reflections |(https://github.com/coded-by-49/DATASTURCTURES-AND-ALGORITHMS-) |
-
-| 📊 ML Notebooks | Machine learning experiments and notes colab  | [Open in Colab](https://colab.research.google.com/drive/1oGemtDSZlkkLbD3DnJGBpGikPkftxJ7I) |
-
+| 🐍 Python Beginner Projects | Beginner-level Python projects to sharpen foundational skills | [View Repo](https://github.com/coded-by-49/Python-Beginner-projects) |
+| 🧠 DSA Journey | Structured solutions to DSA problems by topic, with explanations and reflections | [View Repo](https://github.com/coded-by-49/DATASTURCTURES-AND-ALGORITHMS-) |
+| 📊 ML Notebooks | Machine learning experiments and notes (Google Colab) | [Open in Colab](https://colab.research.google.com/drive/1oGemtDSZlkkLbD3DnJGBpGikPkftxJ7I) |
 | 🤖 Slack Bot | A Django-powered Slack bot that handles events and responses | [View Repo](https://github.com/coded-by-49/SLACK-BOT) |
 
 

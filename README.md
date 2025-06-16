@@ -15,8 +15,26 @@ I use DSA to :
 - To write more efficient machine learning code
 - To build cleaner backend system
 
+
+These are some of my current learnign projects i started a sometime a go
+| Project | Description | Link |
+|--------|-------------|------|
+| python begineer level projects right here : | https://github.com/coded-by-49/Python-Beginner-projects|
+
+| 🧠 DSA Journey | Structured solutions to DSA problems by topic, with explanations and reflections |(https://github.com/coded-by-49/DATASTURCTURES-AND-ALGORITHMS-) |
+
+| 📊 ML Notebooks | Machine learning experiments and notes colab  | [Open in Colab](https://colab.research.google.com/drive/1oGemtDSZlkkLbD3DnJGBpGikPkftxJ7I) |
+
+| 🤖 Slack Bot | A Django-powered Slack bot that handles events and responses | [View Repo](https://github.com/coded-by-49/SLACK-BOT) |
+
+
+FEEL FREE TO CONNECT WITH ME ON LINKEDIN |  https://www.linkedin.com/in/henryaloh-fabian-95b8a4361/
+
+
+
 <!--
 **coded-by-49/coded-by-49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 📚 Notes Archive | Personal notes, references, and documentation for self-learning | [View Repo](https://github.com/coded-by-49/notes-archive) |
 
 Here are some ideas to get you started:
 

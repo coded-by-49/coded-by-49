@@ -27,7 +27,6 @@ These are some of my current learnign projects i started a sometime a go
 | Slack Bot | A Django-powered Slack bot that handles events and responses | [View Repo](https://github.com/coded-by-49/SLACK-BOT) |
 
 
-FEEL FREE TO CONNECT WITH ME ON LINKEDIN |  https://www.linkedin.com/in/henryaloh-fabian-95b8a4361/
 
 
 
